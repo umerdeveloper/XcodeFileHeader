@@ -10,6 +10,7 @@ Steps to follow:
 6. Next time when you will create new file in Project that string will appear as header
 
 **Example:**
+
 Three underscores will be replaced by Xcode internal values for example date, username etc
 
 1. ___PACKAGENAME___
